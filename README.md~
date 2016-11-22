@@ -1,6 +1,6 @@
 Chaos
 ======
-//Esta carpeta de Chaos fue copiada de mi github personal el 22/11/16
+
 Chaos is a versatile, efficient, and reliable primitive for sharing data among all nodes in a low-power wireless network.
 Applications of Chaos are diverse and include the computation of aggregate functions, network-wide agreement, atomic broadcast, reliable dissemination, and all-to-all communication.
 
@@ -53,5 +53,3 @@ Research
 --------
 
 Chaos has been developed at the [Department of Computer Science and Engineering](http://www.chalmers.se/cse/EN/) at [Chalmers University of Technology](http://www.chalmers.se/en/Pages/default.aspx) and at the [Computer Engineering and Networks Laboratory](http://www.tec.ethz.ch/) at [ETH Zurich](http://www.ethz.ch/index_EN). The Chaos team consists of [Olaf Landsiedel](http://www.cse.chalmers.se/~olafl/), [Federico Ferrari](http://www.tik.ee.ethz.ch/~ferrarif/), and [Marco Zimmerling](http://www.tik.ee.ethz.ch/~marcoz/). Please contact us for more information.
-
-//Esta carpeta de Chaos fue copiada de mi github personal el 22/11/16
